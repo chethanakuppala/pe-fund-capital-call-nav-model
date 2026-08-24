@@ -1,0 +1,1146 @@
+{
+  "fund_name": "Meridian Growth Partners III, L.P.",
+  "fund_size": 50000000,
+  "n_quarters": 18,
+  "investment_period_quarters": 12,
+  "mgmt_fee_rate": 0.02,
+  "preferred_return_rate": 0.08,
+  "gp_carry_rate": 0.2,
+  "quarters": [
+    {
+      "quarter_index": 1,
+      "year": 2022,
+      "quarter": 1,
+      "label": "Q1 2022",
+      "quarter_end": "2022-03-31",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 2,
+      "year": 2022,
+      "quarter": 2,
+      "label": "Q2 2022",
+      "quarter_end": "2022-06-30",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 3,
+      "year": 2022,
+      "quarter": 3,
+      "label": "Q3 2022",
+      "quarter_end": "2022-09-30",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 4,
+      "year": 2022,
+      "quarter": 4,
+      "label": "Q4 2022",
+      "quarter_end": "2022-12-31",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 5,
+      "year": 2023,
+      "quarter": 1,
+      "label": "Q1 2023",
+      "quarter_end": "2023-03-31",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 6,
+      "year": 2023,
+      "quarter": 2,
+      "label": "Q2 2023",
+      "quarter_end": "2023-06-30",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 7,
+      "year": 2023,
+      "quarter": 3,
+      "label": "Q3 2023",
+      "quarter_end": "2023-09-30",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 8,
+      "year": 2023,
+      "quarter": 4,
+      "label": "Q4 2023",
+      "quarter_end": "2023-12-31",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 9,
+      "year": 2024,
+      "quarter": 1,
+      "label": "Q1 2024",
+      "quarter_end": "2024-03-31",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 10,
+      "year": 2024,
+      "quarter": 2,
+      "label": "Q2 2024",
+      "quarter_end": "2024-06-30",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 11,
+      "year": 2024,
+      "quarter": 3,
+      "label": "Q3 2024",
+      "quarter_end": "2024-09-30",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 12,
+      "year": 2024,
+      "quarter": 4,
+      "label": "Q4 2024",
+      "quarter_end": "2024-12-31",
+      "in_investment_period": true
+    },
+    {
+      "quarter_index": 13,
+      "year": 2025,
+      "quarter": 1,
+      "label": "Q1 2025",
+      "quarter_end": "2025-03-31",
+      "in_investment_period": false
+    },
+    {
+      "quarter_index": 14,
+      "year": 2025,
+      "quarter": 2,
+      "label": "Q2 2025",
+      "quarter_end": "2025-06-30",
+      "in_investment_period": false
+    },
+    {
+      "quarter_index": 15,
+      "year": 2025,
+      "quarter": 3,
+      "label": "Q3 2025",
+      "quarter_end": "2025-09-30",
+      "in_investment_period": false
+    },
+    {
+      "quarter_index": 16,
+      "year": 2025,
+      "quarter": 4,
+      "label": "Q4 2025",
+      "quarter_end": "2025-12-31",
+      "in_investment_period": false
+    },
+    {
+      "quarter_index": 17,
+      "year": 2026,
+      "quarter": 1,
+      "label": "Q1 2026",
+      "quarter_end": "2026-03-31",
+      "in_investment_period": false
+    },
+    {
+      "quarter_index": 18,
+      "year": 2026,
+      "quarter": 2,
+      "label": "Q2 2026",
+      "quarter_end": "2026-06-30",
+      "in_investment_period": false
+    }
+  ],
+  "lps": [
+    {
+      "lp_id": "LP-01",
+      "lp_name": "Northbridge State Pension Fund",
+      "lp_type": "Pension Fund",
+      "commitment": 8000000.0,
+      "commitment_pct": 0.16
+    },
+    {
+      "lp_id": "LP-02",
+      "lp_name": "Meridian University Endowment",
+      "lp_type": "Endowment",
+      "commitment": 6000000.0,
+      "commitment_pct": 0.12
+    },
+    {
+      "lp_id": "LP-03",
+      "lp_name": "Harborview Insurance Co.",
+      "lp_type": "Insurance Company",
+      "commitment": 5500000.0,
+      "commitment_pct": 0.11
+    },
+    {
+      "lp_id": "LP-04",
+      "lp_name": "Cascade Partners Fund of Funds",
+      "lp_type": "Fund of Funds",
+      "commitment": 5000000.0,
+      "commitment_pct": 0.1
+    },
+    {
+      "lp_id": "LP-05",
+      "lp_name": "Elmwood Family Office",
+      "lp_type": "Family Office",
+      "commitment": 4000000.0,
+      "commitment_pct": 0.08
+    },
+    {
+      "lp_id": "LP-06",
+      "lp_name": "Tanager Sovereign Partners",
+      "lp_type": "Sovereign Wealth Fund",
+      "commitment": 4000000.0,
+      "commitment_pct": 0.08
+    },
+    {
+      "lp_id": "LP-07",
+      "lp_name": "Birchwood College Endowment",
+      "lp_type": "Endowment",
+      "commitment": 3000000.0,
+      "commitment_pct": 0.06
+    },
+    {
+      "lp_id": "LP-08",
+      "lp_name": "Kestrel Insurance Group",
+      "lp_type": "Insurance Company",
+      "commitment": 2500000.0,
+      "commitment_pct": 0.05
+    },
+    {
+      "lp_id": "LP-09",
+      "lp_name": "Wrenfield Family Office",
+      "lp_type": "Family Office",
+      "commitment": 2000000.0,
+      "commitment_pct": 0.04
+    },
+    {
+      "lp_id": "LP-10",
+      "lp_name": "Alder Street Foundation",
+      "lp_type": "Foundation",
+      "commitment": 2000000.0,
+      "commitment_pct": 0.04
+    },
+    {
+      "lp_id": "LP-11",
+      "lp_name": "Pinecrest Pension Trust",
+      "lp_type": "Pension Fund",
+      "commitment": 1800000.0,
+      "commitment_pct": 0.036
+    },
+    {
+      "lp_id": "LP-12",
+      "lp_name": "Ivywood Capital Partners (FoF)",
+      "lp_type": "Fund of Funds",
+      "commitment": 1500000.0,
+      "commitment_pct": 0.03
+    },
+    {
+      "lp_id": "LP-13",
+      "lp_name": "Grayling Family Office",
+      "lp_type": "Family Office",
+      "commitment": 1500000.0,
+      "commitment_pct": 0.03
+    },
+    {
+      "lp_id": "LP-14",
+      "lp_name": "Redstone Family Office",
+      "lp_type": "Family Office",
+      "commitment": 1600000.0,
+      "commitment_pct": 0.032
+    },
+    {
+      "lp_id": "LP-15",
+      "lp_name": "Sable Foundation",
+      "lp_type": "Foundation",
+      "commitment": 1600000.0,
+      "commitment_pct": 0.032
+    }
+  ],
+  "capital_calls": [
+    {
+      "quarter_index": 1,
+      "label": "Q1 2022",
+      "investment_call": 6000000.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 6250000.0
+    },
+    {
+      "quarter_index": 2,
+      "label": "Q2 2022",
+      "investment_call": 5500000.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 5750000.0
+    },
+    {
+      "quarter_index": 3,
+      "label": "Q3 2022",
+      "investment_call": 4500000.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 4750000.0
+    },
+    {
+      "quarter_index": 4,
+      "label": "Q4 2022",
+      "investment_call": 5000000.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 5250000.0
+    },
+    {
+      "quarter_index": 5,
+      "label": "Q1 2023",
+      "investment_call": 4000000.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 4250000.0
+    },
+    {
+      "quarter_index": 6,
+      "label": "Q2 2023",
+      "investment_call": 5000000.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 5250000.0
+    },
+    {
+      "quarter_index": 7,
+      "label": "Q3 2023",
+      "investment_call": 4500000.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 4750000.0
+    },
+    {
+      "quarter_index": 8,
+      "label": "Q4 2023",
+      "investment_call": 3500000.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 3750000.0
+    },
+    {
+      "quarter_index": 9,
+      "label": "Q1 2024",
+      "investment_call": 4000000.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 4250000.0
+    },
+    {
+      "quarter_index": 10,
+      "label": "Q2 2024",
+      "investment_call": 3500000.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 3750000.0
+    },
+    {
+      "quarter_index": 11,
+      "label": "Q3 2024",
+      "investment_call": 0.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 250000.0
+    },
+    {
+      "quarter_index": 12,
+      "label": "Q4 2024",
+      "investment_call": 0.0,
+      "mgmt_fee_call": 250000.0,
+      "total_call": 250000.0
+    },
+    {
+      "quarter_index": 13,
+      "label": "Q1 2025",
+      "investment_call": 0.0,
+      "mgmt_fee_call": 227500.0,
+      "total_call": 227500.0
+    },
+    {
+      "quarter_index": 14,
+      "label": "Q2 2025",
+      "investment_call": 0.0,
+      "mgmt_fee_call": 227500.0,
+      "total_call": 227500.0
+    },
+    {
+      "quarter_index": 15,
+      "label": "Q3 2025",
+      "investment_call": 0.0,
+      "mgmt_fee_call": 197500.0,
+      "total_call": 197500.0
+    },
+    {
+      "quarter_index": 16,
+      "label": "Q4 2025",
+      "investment_call": 0.0,
+      "mgmt_fee_call": 197500.0,
+      "total_call": 197500.0
+    },
+    {
+      "quarter_index": 17,
+      "label": "Q1 2026",
+      "investment_call": 0.0,
+      "mgmt_fee_call": 170000.0,
+      "total_call": 170000.0
+    },
+    {
+      "quarter_index": 18,
+      "label": "Q2 2026",
+      "investment_call": 0.0,
+      "mgmt_fee_call": 170000.0,
+      "total_call": 170000.0
+    }
+  ],
+  "mgmt_fee_schedule": [
+    {
+      "quarter_index": 1,
+      "label": "Q1 2022",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 2,
+      "label": "Q2 2022",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 3,
+      "label": "Q3 2022",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 4,
+      "label": "Q4 2022",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 5,
+      "label": "Q1 2023",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 6,
+      "label": "Q2 2023",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 7,
+      "label": "Q3 2023",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 8,
+      "label": "Q4 2023",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 9,
+      "label": "Q1 2024",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 10,
+      "label": "Q2 2024",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 11,
+      "label": "Q3 2024",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 12,
+      "label": "Q4 2024",
+      "fee_basis": 50000000,
+      "fee_basis_desc": "committed capital",
+      "mgmt_fee": 250000.0
+    },
+    {
+      "quarter_index": 13,
+      "label": "Q1 2025",
+      "fee_basis": 45500000.0,
+      "fee_basis_desc": "invested cost (step-down)",
+      "mgmt_fee": 227500.0
+    },
+    {
+      "quarter_index": 14,
+      "label": "Q2 2025",
+      "fee_basis": 45500000.0,
+      "fee_basis_desc": "invested cost (step-down)",
+      "mgmt_fee": 227500.0
+    },
+    {
+      "quarter_index": 15,
+      "label": "Q3 2025",
+      "fee_basis": 39500000.0,
+      "fee_basis_desc": "invested cost (step-down)",
+      "mgmt_fee": 197500.0
+    },
+    {
+      "quarter_index": 16,
+      "label": "Q4 2025",
+      "fee_basis": 39500000.0,
+      "fee_basis_desc": "invested cost (step-down)",
+      "mgmt_fee": 197500.0
+    },
+    {
+      "quarter_index": 17,
+      "label": "Q1 2026",
+      "fee_basis": 34000000.0,
+      "fee_basis_desc": "invested cost (step-down)",
+      "mgmt_fee": 170000.0
+    },
+    {
+      "quarter_index": 18,
+      "label": "Q2 2026",
+      "fee_basis": 34000000.0,
+      "fee_basis_desc": "invested cost (step-down)",
+      "mgmt_fee": 170000.0
+    }
+  ],
+  "waterfall": [
+    {
+      "quarter_index": 1,
+      "label": "Q1 2022",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 0.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 2,
+      "label": "Q2 2022",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 125000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 3,
+      "label": "Q3 2022",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 365000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 4,
+      "label": "Q4 2022",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 700000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 5,
+      "label": "Q1 2023",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 1140000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 6,
+      "label": "Q2 2023",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 1665000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 7,
+      "label": "Q3 2023",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 2295000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 8,
+      "label": "Q4 2023",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 3020000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 9,
+      "label": "Q1 2024",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 3820000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 10,
+      "label": "Q2 2024",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 4705000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 11,
+      "label": "Q3 2024",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 5665000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 12,
+      "label": "Q4 2024",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 6630000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 13,
+      "label": "Q1 2025",
+      "distributable": 19411886.99,
+      "tier1_return_of_capital": 19411886.99,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 19411886.99,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 7600000.0,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 14,
+      "label": "Q2 2025",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 8186312.26,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 15,
+      "label": "Q3 2025",
+      "distributable": 10993565.54,
+      "tier1_return_of_capital": 10993565.54,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 10993565.54,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 8777174.52,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 16,
+      "label": "Q4 2025",
+      "distributable": 0,
+      "tier1_return_of_capital": 0.0,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 0.0,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 9152115.47,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 17,
+      "label": "Q1 2026",
+      "distributable": 14803878.73,
+      "tier1_return_of_capital": 14803878.73,
+      "tier2_preferred_return": 0.0,
+      "tier3_gp_catchup": 0.0,
+      "tier4_carry_split_lp_80": 0.0,
+      "tier4_carry_split_gp_20": 0.0,
+      "total_to_lps": 14803878.73,
+      "total_to_gp": 0.0,
+      "cum_pref_accrued": 9531006.42,
+      "cum_pref_paid": 0.0
+    },
+    {
+      "quarter_index": 18,
+      "label": "Q2 2026",
+      "distributable": 19995229.19,
+      "tier1_return_of_capital": 4480668.74,
+      "tier2_preferred_return": 9617219.79,
+      "tier3_gp_catchup": 2404304.95,
+      "tier4_carry_split_lp_80": 2794428.57,
+      "tier4_carry_split_gp_20": 698607.14,
+      "total_to_lps": 16892317.1,
+      "total_to_gp": 3102912.09,
+      "cum_pref_accrued": 9617219.79,
+      "cum_pref_paid": 9617219.79
+    }
+  ],
+  "nav_rollforward": [
+    {
+      "quarter_index": 1,
+      "label": "Q1 2022",
+      "beginning_nav": 0.0,
+      "contributions": 6250000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 0.0,
+      "distributions": 0,
+      "ending_nav": 6000000.0
+    },
+    {
+      "quarter_index": 2,
+      "label": "Q2 2022",
+      "beginning_nav": 6000000.0,
+      "contributions": 5750000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 657424.54,
+      "distributions": 0,
+      "ending_nav": 12157424.54
+    },
+    {
+      "quarter_index": 3,
+      "label": "Q3 2022",
+      "beginning_nav": 12157424.54,
+      "contributions": 4750000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 896533.37,
+      "distributions": 0,
+      "ending_nav": 17553957.91
+    },
+    {
+      "quarter_index": 4,
+      "label": "Q4 2022",
+      "beginning_nav": 17553957.91,
+      "contributions": 5250000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 1008642.5,
+      "distributions": 0,
+      "ending_nav": 23562600.41
+    },
+    {
+      "quarter_index": 5,
+      "label": "Q1 2023",
+      "beginning_nav": 23562600.41,
+      "contributions": 4250000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 1485986.85,
+      "distributions": 0,
+      "ending_nav": 29048587.26
+    },
+    {
+      "quarter_index": 6,
+      "label": "Q2 2023",
+      "beginning_nav": 29048587.26,
+      "contributions": 5250000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 1163810.53,
+      "distributions": 0,
+      "ending_nav": 35212397.79
+    },
+    {
+      "quarter_index": 7,
+      "label": "Q3 2023",
+      "beginning_nav": 35212397.79,
+      "contributions": 4750000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 2059134.68,
+      "distributions": 0,
+      "ending_nav": 41771532.47
+    },
+    {
+      "quarter_index": 8,
+      "label": "Q4 2023",
+      "beginning_nav": 41771532.47,
+      "contributions": 3750000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 2512421.29,
+      "distributions": 0,
+      "ending_nav": 47783953.76
+    },
+    {
+      "quarter_index": 9,
+      "label": "Q1 2024",
+      "beginning_nav": 47783953.76,
+      "contributions": 4250000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 2864578.8,
+      "distributions": 0,
+      "ending_nav": 54648532.56
+    },
+    {
+      "quarter_index": 10,
+      "label": "Q2 2024",
+      "beginning_nav": 54648532.56,
+      "contributions": 3750000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 3303626.81,
+      "distributions": 0,
+      "ending_nav": 61452159.37
+    },
+    {
+      "quarter_index": 11,
+      "label": "Q3 2024",
+      "beginning_nav": 61452159.37,
+      "contributions": 250000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 3663717.05,
+      "distributions": 0,
+      "ending_nav": 65115876.42
+    },
+    {
+      "quarter_index": 12,
+      "label": "Q4 2024",
+      "beginning_nav": 65115876.42,
+      "contributions": 250000.0,
+      "management_fees": -250000.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 4363782.81,
+      "distributions": 0,
+      "ending_nav": 69479659.23
+    },
+    {
+      "quarter_index": 13,
+      "label": "Q1 2025",
+      "beginning_nav": 69479659.23,
+      "contributions": 227500.0,
+      "management_fees": -227500.0,
+      "realized_gain_loss": 13411886.99,
+      "unrealized_gain_loss": -8476207.73,
+      "distributions": -19411886.99,
+      "ending_nav": 55003451.5
+    },
+    {
+      "quarter_index": 14,
+      "label": "Q2 2025",
+      "beginning_nav": 55003451.5,
+      "contributions": 227500.0,
+      "management_fees": -227500.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 2950760.29,
+      "distributions": 0,
+      "ending_nav": 57954211.79
+    },
+    {
+      "quarter_index": 15,
+      "label": "Q3 2025",
+      "beginning_nav": 57954211.79,
+      "contributions": 197500.0,
+      "management_fees": -197500.0,
+      "realized_gain_loss": 5493565.54,
+      "unrealized_gain_loss": -2629954.19,
+      "distributions": -10993565.54,
+      "ending_nav": 49824257.6
+    },
+    {
+      "quarter_index": 16,
+      "label": "Q4 2025",
+      "beginning_nav": 49824257.6,
+      "contributions": 197500.0,
+      "management_fees": -197500.0,
+      "realized_gain_loss": 0,
+      "unrealized_gain_loss": 2378162.43,
+      "distributions": 0,
+      "ending_nav": 52202420.03
+    },
+    {
+      "quarter_index": 17,
+      "label": "Q1 2026",
+      "beginning_nav": 52202420.03,
+      "contributions": 170000.0,
+      "management_fees": -170000.0,
+      "realized_gain_loss": 9803878.73,
+      "unrealized_gain_loss": -7010181.79,
+      "distributions": -14803878.73,
+      "ending_nav": 40192238.24
+    },
+    {
+      "quarter_index": 18,
+      "label": "Q2 2026",
+      "beginning_nav": 40192238.24,
+      "contributions": 170000.0,
+      "management_fees": -170000.0,
+      "realized_gain_loss": 8495229.19,
+      "unrealized_gain_loss": -6991460.6,
+      "distributions": -19995229.19,
+      "ending_nav": 21700777.64
+    }
+  ],
+  "performance_summary": {
+    "as_of_quarter": "Q2 2026",
+    "as_of_date": "2026-06-30",
+    "committed_capital": 50000000,
+    "called_capital": 49690000.0,
+    "unfunded_commitment": 310000.0,
+    "pct_called": 0.9938,
+    "total_invested_cost": 45500000,
+    "total_realized_proceeds": 65204560.45,
+    "remaining_portfolio_fv": 21700777.64,
+    "ending_nav": 21700777.64,
+    "cum_lp_distributions": 62101648.36,
+    "cum_gp_carry_earned": 3102912.09,
+    "gross_irr": 0.2555539215580035,
+    "gross_moic": 1.91,
+    "net_irr": 0.208954418955691,
+    "net_tvpi": 1.6865,
+    "dpi": 1.2498,
+    "rvpi": 0.4367
+  },
+  "reconciliation": {
+    "as_of": "Q2 2026",
+    "breaks": [
+      {
+        "break_id": "R-1",
+        "category": "Timing difference",
+        "description": "Q9 (Q1 2024) capital call: GP ledger records LP contributions on trade date (2024-01-15). Fund administrator books on wire settlement date; two LPs' wires cleared after quarter-end and landed in the Q10 admin ledger.",
+        "affected_lps": [
+          "LP-05",
+          "LP-09"
+        ],
+        "gp_ledger_amount": 4250000.0,
+        "fund_admin_amount": 3740000.0,
+        "variance": -510000.0,
+        "resolution": "No adjusting entry required \u2014 timing-only difference. Confirmed both LP wires received in full; Q10 fund admin capital call report shows the offsetting +$510,000.00, netting to zero across the two quarters.",
+        "status": "Resolved \u2014 timing only, nets to zero by Q10"
+      },
+      {
+        "break_id": "R-2",
+        "category": "Management fee basis error",
+        "description": "Per the LPA, management fee steps down from 2% of committed capital to 2% of remaining invested cost after the investment period ends (Q4 2024). Fund administrator's fee calculation continued billing 2% of committed capital for Q13-Q16 before the step-down was applied starting Q17.",
+        "quarterly_detail": [
+          {
+            "quarter_index": 13,
+            "label": "Q1 2025",
+            "gp_ledger_fee": 227500.0,
+            "fund_admin_fee": 250000.0,
+            "variance": 22500.0
+          },
+          {
+            "quarter_index": 14,
+            "label": "Q2 2025",
+            "gp_ledger_fee": 227500.0,
+            "fund_admin_fee": 250000.0,
+            "variance": 22500.0
+          },
+          {
+            "quarter_index": 15,
+            "label": "Q3 2025",
+            "gp_ledger_fee": 197500.0,
+            "fund_admin_fee": 250000.0,
+            "variance": 52500.0
+          },
+          {
+            "quarter_index": 16,
+            "label": "Q4 2025",
+            "gp_ledger_fee": 197500.0,
+            "fund_admin_fee": 250000.0,
+            "variance": 52500.0
+          }
+        ],
+        "gp_ledger_amount": 850000.0,
+        "fund_admin_amount": 1000000.0,
+        "variance": 150000.0,
+        "resolution": "Adjusting entry required: credit LP capital accounts $150,000.00 (pro rata by commitment %) for fees over-charged Q13-Q16; fund administrator instructed to apply the step-down formula (2% x prior-quarter remaining invested cost) going forward.",
+        "status": "Open \u2014 adjusting entry pending LP notice"
+      },
+      {
+        "break_id": "R-3",
+        "category": "Distribution character misclassification",
+        "description": "Harbor Dental Partners Q2 2026 dividend recap ($6,125,185.45, 60% partial realization), paid alongside the BluePeak Software and Fairmont Health full exits in the same quarter: fund administrator's system flagged the recap as a recapitalization rather than a standard realization and remitted it 100% as return of capital outside the tiered waterfall, before running the preferred return / catch-up / carry tiers on the quarter's other two exits. The LPA requires every cash distribution \u2014 recap or sale \u2014 to pass through the same waterfall in the order it is received.",
+        "gp_ledger_amount": 3102912.09,
+        "fund_admin_amount": 2774008.75,
+        "variance": -328903.34,
+        "resolution": "Adjusting entry required: re-sequence the Q2 2026 distribution through the waterfall in receipt order (recap included), and remit the GP the additional $328,903.34 in carried interest the misclassification under-paid.",
+        "status": "Open \u2014 reclassification and GP remittance pending"
+      },
+      {
+        "break_id": "R-4",
+        "category": "Unreconciled cash break",
+        "description": "Q15 (Q3 2025) LP distribution: fund administrator's bank netted a $375.00 outgoing wire fee against one LP's distribution payment; the fee was not recorded in the GP's internal ledger.",
+        "gp_ledger_amount": 0.0,
+        "fund_admin_amount": -375.0,
+        "variance": -375.0,
+        "resolution": "Booked to fund operating expenses; immaterial, no LP notice required.",
+        "status": "Resolved \u2014 booked to fund expenses"
+      }
+    ],
+    "total_open_variance_gross": 478903.34,
+    "open_items_detail": [
+      {
+        "break_id": "R-2",
+        "category": "Management fee basis error",
+        "variance": 150000.0
+      },
+      {
+        "break_id": "R-3",
+        "category": "Distribution character misclassification",
+        "variance": -328903.34
+      }
+    ]
+  },
+  "exit_events": [
+    {
+      "company_id": "PC-01",
+      "company_name": "Vantage Robotics",
+      "quarter_index": 13,
+      "event_type": "full_exit",
+      "pct_realized": 1.0,
+      "proceeds": 19411886.99,
+      "realized_cost_basis": 6000000.0,
+      "realized_gain": 13411886.99
+    },
+    {
+      "company_id": "PC-02",
+      "company_name": "Coastal Foods Group",
+      "quarter_index": 15,
+      "event_type": "full_exit",
+      "pct_realized": 1.0,
+      "proceeds": 10993565.54,
+      "realized_cost_basis": 5500000.0,
+      "realized_gain": 5493565.54
+    },
+    {
+      "company_id": "PC-04",
+      "company_name": "Harbor Dental Partners",
+      "quarter_index": 18,
+      "event_type": "partial_recap",
+      "pct_realized": 0.6,
+      "proceeds": 6125185.45,
+      "realized_cost_basis": 3000000.0,
+      "realized_gain": 3125185.45
+    },
+    {
+      "company_id": "PC-06",
+      "company_name": "Summit Logistics",
+      "quarter_index": 17,
+      "event_type": "full_exit",
+      "pct_realized": 1.0,
+      "proceeds": 14803878.73,
+      "realized_cost_basis": 5000000.0,
+      "realized_gain": 9803878.73
+    },
+    {
+      "company_id": "PC-07",
+      "company_name": "BluePeak Software",
+      "quarter_index": 18,
+      "event_type": "full_exit",
+      "pct_realized": 1.0,
+      "proceeds": 7670711.21,
+      "realized_cost_basis": 4500000.0,
+      "realized_gain": 3170711.21
+    },
+    {
+      "company_id": "PC-09",
+      "company_name": "Fairmont Health Services",
+      "quarter_index": 18,
+      "event_type": "full_exit",
+      "pct_realized": 1.0,
+      "proceeds": 6199332.53,
+      "realized_cost_basis": 4000000.0,
+      "realized_gain": 2199332.53
+    }
+  ]
+}

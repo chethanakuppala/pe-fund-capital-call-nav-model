@@ -1,0 +1,16 @@
+lp_id,lp_name,lp_type,commitment,commitment_pct
+LP-01,Northbridge State Pension Fund,Pension Fund,8000000,0.16
+LP-02,Meridian University Endowment,Endowment,6000000,0.12
+LP-03,Harborview Insurance Co.,Insurance Company,5500000,0.11
+LP-04,Cascade Partners Fund of Funds,Fund of Funds,5000000,0.1
+LP-05,Elmwood Family Office,Family Office,4000000,0.08
+LP-06,Tanager Sovereign Partners,Sovereign Wealth Fund,4000000,0.08
+LP-07,Birchwood College Endowment,Endowment,3000000,0.06
+LP-08,Kestrel Insurance Group,Insurance Company,2500000,0.05
+LP-09,Wrenfield Family Office,Family Office,2000000,0.04
+LP-10,Alder Street Foundation,Foundation,2000000,0.04
+LP-11,Pinecrest Pension Trust,Pension Fund,1800000,0.036
+LP-12,Ivywood Capital Partners (FoF),Fund of Funds,1500000,0.03
+LP-13,Grayling Family Office,Family Office,1500000,0.03
+LP-14,Redstone Family Office,Family Office,1600000,0.032
+LP-15,Sable Foundation,Foundation,1600000,0.032

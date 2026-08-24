@@ -1,0 +1,7 @@
+company_id,company_name,quarter_index,event_type,pct_realized,proceeds,realized_cost_basis,realized_gain
+PC-01,Vantage Robotics,13,full_exit,1.0,19411886.99,6000000.0,13411886.99
+PC-02,Coastal Foods Group,15,full_exit,1.0,10993565.54,5500000.0,5493565.54
+PC-04,Harbor Dental Partners,18,partial_recap,0.6,6125185.45,3000000.0,3125185.45
+PC-06,Summit Logistics,17,full_exit,1.0,14803878.73,5000000.0,9803878.73
+PC-07,BluePeak Software,18,full_exit,1.0,7670711.21,4500000.0,3170711.21
+PC-09,Fairmont Health Services,18,full_exit,1.0,6199332.53,4000000.0,2199332.53

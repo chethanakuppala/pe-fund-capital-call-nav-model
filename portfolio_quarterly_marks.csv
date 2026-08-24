@@ -1,0 +1,127 @@
+company_id,company_name,sector,quarter_index,cost_basis,fair_value
+PC-01,Vantage Robotics,Industrial Tech,1,6000000,6000000
+PC-01,Vantage Robotics,Industrial Tech,2,6000000,6657424.54
+PC-01,Vantage Robotics,Industrial Tech,3,6000000,7252599.88
+PC-01,Vantage Robotics,Industrial Tech,4,6000000,8095763.7
+PC-01,Vantage Robotics,Industrial Tech,5,6000000,9060037.73
+PC-01,Vantage Robotics,Industrial Tech,6,6000000,9746194.91
+PC-01,Vantage Robotics,Industrial Tech,7,6000000,10579175.94
+PC-01,Vantage Robotics,Industrial Tech,8,6000000,11710276.11
+PC-01,Vantage Robotics,Industrial Tech,9,6000000,12884305.78
+PC-01,Vantage Robotics,Industrial Tech,10,6000000,14233910.82
+PC-01,Vantage Robotics,Industrial Tech,11,6000000,15546339.19
+PC-01,Vantage Robotics,Industrial Tech,12,6000000,17383776.09
+PC-01,Vantage Robotics,Industrial Tech,13,6000000,19411886.99
+PC-02,Coastal Foods Group,Consumer,2,5500000,5500000
+PC-02,Coastal Foods Group,Consumer,3,5500000,5801358.03
+PC-02,Coastal Foods Group,Consumer,4,5500000,6193105.72
+PC-02,Coastal Foods Group,Consumer,5,5500000,6562277.44
+PC-02,Coastal Foods Group,Consumer,6,5500000,6848973.44
+PC-02,Coastal Foods Group,Consumer,7,5500000,7249124.78
+PC-02,Coastal Foods Group,Consumer,8,5500000,7557164.8
+PC-02,Coastal Foods Group,Consumer,9,5500000,8044914.82
+PC-02,Coastal Foods Group,Consumer,10,5500000,8474520.43
+PC-02,Coastal Foods Group,Consumer,11,5500000,8913345.09
+PC-02,Coastal Foods Group,Consumer,12,5500000,9321833.41
+PC-02,Coastal Foods Group,Consumer,13,5500000,9961968.33
+PC-02,Coastal Foods Group,Consumer,14,5500000,10481441.61
+PC-02,Coastal Foods Group,Consumer,15,5500000,10993565.54
+PC-03,Nimbus Data Systems,Software,3,4500000,4500000
+PC-03,Nimbus Data Systems,Software,4,4500000,4273730.99
+PC-03,Nimbus Data Systems,Software,5,4500000,4115537.28
+PC-03,Nimbus Data Systems,Software,6,4500000,3952898.09
+PC-03,Nimbus Data Systems,Software,7,4500000,3799490.02
+PC-03,Nimbus Data Systems,Software,8,4500000,3653066.47
+PC-03,Nimbus Data Systems,Software,9,4500000,3606032.2
+PC-03,Nimbus Data Systems,Software,10,4500000,3421777.56
+PC-03,Nimbus Data Systems,Software,11,4500000,3405070.27
+PC-03,Nimbus Data Systems,Software,12,4500000,3428135.65
+PC-03,Nimbus Data Systems,Software,13,4500000,3410854.63
+PC-03,Nimbus Data Systems,Software,14,4500000,3424169.09
+PC-03,Nimbus Data Systems,Software,15,4500000,3435328.2
+PC-03,Nimbus Data Systems,Software,16,4500000,3440113.51
+PC-03,Nimbus Data Systems,Software,17,4500000,3444627.39
+PC-03,Nimbus Data Systems,Software,18,4500000,3449248.61
+PC-04,Harbor Dental Partners,Healthcare Services,4,5000000,5000000
+PC-04,Harbor Dental Partners,Healthcare Services,5,5000000,5310734.81
+PC-04,Harbor Dental Partners,Healthcare Services,6,5000000,5601821.23
+PC-04,Harbor Dental Partners,Healthcare Services,7,5000000,5923754.72
+PC-04,Harbor Dental Partners,Healthcare Services,8,5000000,6288512.63
+PC-04,Harbor Dental Partners,Healthcare Services,9,5000000,6518132.2
+PC-04,Harbor Dental Partners,Healthcare Services,10,5000000,6845107.43
+PC-04,Harbor Dental Partners,Healthcare Services,11,5000000,7176106.21
+PC-04,Harbor Dental Partners,Healthcare Services,12,5000000,7508600.08
+PC-04,Harbor Dental Partners,Healthcare Services,13,5000000,7889273.29
+PC-04,Harbor Dental Partners,Healthcare Services,14,5000000,8456822.05
+PC-04,Harbor Dental Partners,Healthcare Services,15,5000000,8825624.29
+PC-04,Harbor Dental Partners,Healthcare Services,16,5000000,9404755.93
+PC-04,Harbor Dental Partners,Healthcare Services,17,5000000,9722689.0
+PC-04,Harbor Dental Partners,Healthcare Services,18,5000000,10208642.41
+PC-05,Trailhead Outdoor Co.,Consumer,5,4000000,4000000
+PC-05,Trailhead Outdoor Co.,Consumer,6,4000000,4062510.12
+PC-05,Trailhead Outdoor Co.,Consumer,7,4000000,4143200.61
+PC-05,Trailhead Outdoor Co.,Consumer,8,4000000,4230672.96
+PC-05,Trailhead Outdoor Co.,Consumer,9,4000000,4323466.31
+PC-05,Trailhead Outdoor Co.,Consumer,10,4000000,4368917.82
+PC-05,Trailhead Outdoor Co.,Consumer,11,4000000,4409882.9
+PC-05,Trailhead Outdoor Co.,Consumer,12,4000000,4509457.0
+PC-05,Trailhead Outdoor Co.,Consumer,13,4000000,4563962.61
+PC-05,Trailhead Outdoor Co.,Consumer,14,4000000,4569636.24
+PC-05,Trailhead Outdoor Co.,Consumer,15,4000000,4581824.04
+PC-05,Trailhead Outdoor Co.,Consumer,16,4000000,4603841.89
+PC-05,Trailhead Outdoor Co.,Consumer,17,4000000,4691184.17
+PC-05,Trailhead Outdoor Co.,Consumer,18,4000000,4763542.21
+PC-06,Summit Logistics,Transportation,6,5000000,5000000
+PC-06,Summit Logistics,Transportation,7,5000000,5576786.4
+PC-06,Summit Logistics,Transportation,8,5000000,6126608.52
+PC-06,Summit Logistics,Transportation,9,5000000,6784472.08
+PC-06,Summit Logistics,Transportation,10,5000000,7560506.15
+PC-06,Summit Logistics,Transportation,11,5000000,8319277.05
+PC-06,Summit Logistics,Transportation,12,5000000,9249801.74
+PC-06,Summit Logistics,Transportation,13,5000000,10129190.67
+PC-06,Summit Logistics,Transportation,14,5000000,11137594.06
+PC-06,Summit Logistics,Transportation,15,5000000,12243266.81
+PC-06,Summit Logistics,Transportation,16,5000000,13309195.07
+PC-06,Summit Logistics,Transportation,17,5000000,14803878.73
+PC-07,BluePeak Software,Software,7,4500000,4500000
+PC-07,BluePeak Software,Software,8,4500000,4717652.27
+PC-07,BluePeak Software,Software,9,4500000,4973112.81
+PC-07,BluePeak Software,Software,10,4500000,5270350.59
+PC-07,BluePeak Software,Software,11,4500000,5583190.03
+PC-07,BluePeak Software,Software,12,4500000,5929261.95
+PC-07,BluePeak Software,Software,13,4500000,6242434.74
+PC-07,BluePeak Software,Software,14,4500000,6547817.28
+PC-07,BluePeak Software,Software,15,4500000,6895135.64
+PC-07,BluePeak Software,Software,16,4500000,7127860.17
+PC-07,BluePeak Software,Software,17,4500000,7388986.84
+PC-07,BluePeak Software,Software,18,4500000,7670711.21
+PC-08,Ridgeline Materials,Industrials,8,3500000,3500000
+PC-08,Ridgeline Materials,Industrials,9,3500000,3514096.36
+PC-08,Ridgeline Materials,Industrials,10,3500000,3577342.16
+PC-08,Ridgeline Materials,Industrials,11,3500000,3595032.87
+PC-08,Ridgeline Materials,Industrials,12,3500000,3631768.26
+PC-08,Ridgeline Materials,Industrials,13,3500000,3729797.98
+PC-08,Ridgeline Materials,Industrials,14,3500000,3768727.22
+PC-08,Ridgeline Materials,Industrials,15,3500000,3849284.35
+PC-08,Ridgeline Materials,Industrials,16,3500000,3867236.73
+PC-08,Ridgeline Materials,Industrials,17,3500000,3913433.29
+PC-08,Ridgeline Materials,Industrials,18,3500000,3931042.88
+PC-09,Fairmont Health Services,Healthcare Services,9,4000000,4000000
+PC-09,Fairmont Health Services,Healthcare Services,10,4000000,4199726.41
+PC-09,Fairmont Health Services,Healthcare Services,11,4000000,4468860.41
+PC-09,Fairmont Health Services,Healthcare Services,12,4000000,4617549.03
+PC-09,Fairmont Health Services,Healthcare Services,13,4000000,4890968.34
+PC-09,Fairmont Health Services,Healthcare Services,14,4000000,5169033.72
+PC-09,Fairmont Health Services,Healthcare Services,15,4000000,5411307.37
+PC-09,Fairmont Health Services,Healthcare Services,16,4000000,5609617.2
+PC-09,Fairmont Health Services,Healthcare Services,17,4000000,5917391.96
+PC-09,Fairmont Health Services,Healthcare Services,18,4000000,6199332.53
+PC-10,Alpine Consumer Brands,Consumer,10,3500000,3500000
+PC-10,Alpine Consumer Brands,Consumer,11,3500000,3698772.4
+PC-10,Alpine Consumer Brands,Consumer,12,3500000,3899476.02
+PC-10,Alpine Consumer Brands,Consumer,13,3500000,4185000.91
+PC-10,Alpine Consumer Brands,Consumer,14,3500000,4398970.52
+PC-10,Alpine Consumer Brands,Consumer,15,3500000,4582486.9
+PC-10,Alpine Consumer Brands,Consumer,16,3500000,4839799.53
+PC-10,Alpine Consumer Brands,Consumer,17,3500000,5113925.59
+PC-10,Alpine Consumer Brands,Consumer,18,3500000,5473486.98

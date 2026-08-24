@@ -1,0 +1,271 @@
+quarter_index,lp_id,lp_name,investment_call,mgmt_fee_call,total_call
+1,LP-01,Northbridge State Pension Fund,960000.0,40000.0,1000000.0
+1,LP-02,Meridian University Endowment,720000.0,30000.0,750000.0
+1,LP-03,Harborview Insurance Co.,660000.0,27500.0,687500.0
+1,LP-04,Cascade Partners Fund of Funds,600000.0,25000.0,625000.0
+1,LP-05,Elmwood Family Office,480000.0,20000.0,500000.0
+1,LP-06,Tanager Sovereign Partners,480000.0,20000.0,500000.0
+1,LP-07,Birchwood College Endowment,360000.0,15000.0,375000.0
+1,LP-08,Kestrel Insurance Group,300000.0,12500.0,312500.0
+1,LP-09,Wrenfield Family Office,240000.0,10000.0,250000.0
+1,LP-10,Alder Street Foundation,240000.0,10000.0,250000.0
+1,LP-11,Pinecrest Pension Trust,216000.0,9000.0,225000.0
+1,LP-12,Ivywood Capital Partners (FoF),180000.0,7500.0,187500.0
+1,LP-13,Grayling Family Office,180000.0,7500.0,187500.0
+1,LP-14,Redstone Family Office,192000.0,8000.0,200000.0
+1,LP-15,Sable Foundation,192000.0,8000.0,200000.0
+2,LP-01,Northbridge State Pension Fund,880000.0,40000.0,920000.0
+2,LP-02,Meridian University Endowment,660000.0,30000.0,690000.0
+2,LP-03,Harborview Insurance Co.,605000.0,27500.0,632500.0
+2,LP-04,Cascade Partners Fund of Funds,550000.0,25000.0,575000.0
+2,LP-05,Elmwood Family Office,440000.0,20000.0,460000.0
+2,LP-06,Tanager Sovereign Partners,440000.0,20000.0,460000.0
+2,LP-07,Birchwood College Endowment,330000.0,15000.0,345000.0
+2,LP-08,Kestrel Insurance Group,275000.0,12500.0,287500.0
+2,LP-09,Wrenfield Family Office,220000.0,10000.0,230000.0
+2,LP-10,Alder Street Foundation,220000.0,10000.0,230000.0
+2,LP-11,Pinecrest Pension Trust,198000.0,9000.0,207000.0
+2,LP-12,Ivywood Capital Partners (FoF),165000.0,7500.0,172500.0
+2,LP-13,Grayling Family Office,165000.0,7500.0,172500.0
+2,LP-14,Redstone Family Office,176000.0,8000.0,184000.0
+2,LP-15,Sable Foundation,176000.0,8000.0,184000.0
+3,LP-01,Northbridge State Pension Fund,720000.0,40000.0,760000.0
+3,LP-02,Meridian University Endowment,540000.0,30000.0,570000.0
+3,LP-03,Harborview Insurance Co.,495000.0,27500.0,522500.0
+3,LP-04,Cascade Partners Fund of Funds,450000.0,25000.0,475000.0
+3,LP-05,Elmwood Family Office,360000.0,20000.0,380000.0
+3,LP-06,Tanager Sovereign Partners,360000.0,20000.0,380000.0
+3,LP-07,Birchwood College Endowment,270000.0,15000.0,285000.0
+3,LP-08,Kestrel Insurance Group,225000.0,12500.0,237500.0
+3,LP-09,Wrenfield Family Office,180000.0,10000.0,190000.0
+3,LP-10,Alder Street Foundation,180000.0,10000.0,190000.0
+3,LP-11,Pinecrest Pension Trust,162000.0,9000.0,171000.0
+3,LP-12,Ivywood Capital Partners (FoF),135000.0,7500.0,142500.0
+3,LP-13,Grayling Family Office,135000.0,7500.0,142500.0
+3,LP-14,Redstone Family Office,144000.0,8000.0,152000.0
+3,LP-15,Sable Foundation,144000.0,8000.0,152000.0
+4,LP-01,Northbridge State Pension Fund,800000.0,40000.0,840000.0
+4,LP-02,Meridian University Endowment,600000.0,30000.0,630000.0
+4,LP-03,Harborview Insurance Co.,550000.0,27500.0,577500.0
+4,LP-04,Cascade Partners Fund of Funds,500000.0,25000.0,525000.0
+4,LP-05,Elmwood Family Office,400000.0,20000.0,420000.0
+4,LP-06,Tanager Sovereign Partners,400000.0,20000.0,420000.0
+4,LP-07,Birchwood College Endowment,300000.0,15000.0,315000.0
+4,LP-08,Kestrel Insurance Group,250000.0,12500.0,262500.0
+4,LP-09,Wrenfield Family Office,200000.0,10000.0,210000.0
+4,LP-10,Alder Street Foundation,200000.0,10000.0,210000.0
+4,LP-11,Pinecrest Pension Trust,180000.0,9000.0,189000.0
+4,LP-12,Ivywood Capital Partners (FoF),150000.0,7500.0,157500.0
+4,LP-13,Grayling Family Office,150000.0,7500.0,157500.0
+4,LP-14,Redstone Family Office,160000.0,8000.0,168000.0
+4,LP-15,Sable Foundation,160000.0,8000.0,168000.0
+5,LP-01,Northbridge State Pension Fund,640000.0,40000.0,680000.0
+5,LP-02,Meridian University Endowment,480000.0,30000.0,510000.0
+5,LP-03,Harborview Insurance Co.,440000.0,27500.0,467500.0
+5,LP-04,Cascade Partners Fund of Funds,400000.0,25000.0,425000.0
+5,LP-05,Elmwood Family Office,320000.0,20000.0,340000.0
+5,LP-06,Tanager Sovereign Partners,320000.0,20000.0,340000.0
+5,LP-07,Birchwood College Endowment,240000.0,15000.0,255000.0
+5,LP-08,Kestrel Insurance Group,200000.0,12500.0,212500.0
+5,LP-09,Wrenfield Family Office,160000.0,10000.0,170000.0
+5,LP-10,Alder Street Foundation,160000.0,10000.0,170000.0
+5,LP-11,Pinecrest Pension Trust,144000.0,9000.0,153000.0
+5,LP-12,Ivywood Capital Partners (FoF),120000.0,7500.0,127500.0
+5,LP-13,Grayling Family Office,120000.0,7500.0,127500.0
+5,LP-14,Redstone Family Office,128000.0,8000.0,136000.0
+5,LP-15,Sable Foundation,128000.0,8000.0,136000.0
+6,LP-01,Northbridge State Pension Fund,800000.0,40000.0,840000.0
+6,LP-02,Meridian University Endowment,600000.0,30000.0,630000.0
+6,LP-03,Harborview Insurance Co.,550000.0,27500.0,577500.0
+6,LP-04,Cascade Partners Fund of Funds,500000.0,25000.0,525000.0
+6,LP-05,Elmwood Family Office,400000.0,20000.0,420000.0
+6,LP-06,Tanager Sovereign Partners,400000.0,20000.0,420000.0
+6,LP-07,Birchwood College Endowment,300000.0,15000.0,315000.0
+6,LP-08,Kestrel Insurance Group,250000.0,12500.0,262500.0
+6,LP-09,Wrenfield Family Office,200000.0,10000.0,210000.0
+6,LP-10,Alder Street Foundation,200000.0,10000.0,210000.0
+6,LP-11,Pinecrest Pension Trust,180000.0,9000.0,189000.0
+6,LP-12,Ivywood Capital Partners (FoF),150000.0,7500.0,157500.0
+6,LP-13,Grayling Family Office,150000.0,7500.0,157500.0
+6,LP-14,Redstone Family Office,160000.0,8000.0,168000.0
+6,LP-15,Sable Foundation,160000.0,8000.0,168000.0
+7,LP-01,Northbridge State Pension Fund,720000.0,40000.0,760000.0
+7,LP-02,Meridian University Endowment,540000.0,30000.0,570000.0
+7,LP-03,Harborview Insurance Co.,495000.0,27500.0,522500.0
+7,LP-04,Cascade Partners Fund of Funds,450000.0,25000.0,475000.0
+7,LP-05,Elmwood Family Office,360000.0,20000.0,380000.0
+7,LP-06,Tanager Sovereign Partners,360000.0,20000.0,380000.0
+7,LP-07,Birchwood College Endowment,270000.0,15000.0,285000.0
+7,LP-08,Kestrel Insurance Group,225000.0,12500.0,237500.0
+7,LP-09,Wrenfield Family Office,180000.0,10000.0,190000.0
+7,LP-10,Alder Street Foundation,180000.0,10000.0,190000.0
+7,LP-11,Pinecrest Pension Trust,162000.0,9000.0,171000.0
+7,LP-12,Ivywood Capital Partners (FoF),135000.0,7500.0,142500.0
+7,LP-13,Grayling Family Office,135000.0,7500.0,142500.0
+7,LP-14,Redstone Family Office,144000.0,8000.0,152000.0
+7,LP-15,Sable Foundation,144000.0,8000.0,152000.0
+8,LP-01,Northbridge State Pension Fund,560000.0,40000.0,600000.0
+8,LP-02,Meridian University Endowment,420000.0,30000.0,450000.0
+8,LP-03,Harborview Insurance Co.,385000.0,27500.0,412500.0
+8,LP-04,Cascade Partners Fund of Funds,350000.0,25000.0,375000.0
+8,LP-05,Elmwood Family Office,280000.0,20000.0,300000.0
+8,LP-06,Tanager Sovereign Partners,280000.0,20000.0,300000.0
+8,LP-07,Birchwood College Endowment,210000.0,15000.0,225000.0
+8,LP-08,Kestrel Insurance Group,175000.0,12500.0,187500.0
+8,LP-09,Wrenfield Family Office,140000.0,10000.0,150000.0
+8,LP-10,Alder Street Foundation,140000.0,10000.0,150000.0
+8,LP-11,Pinecrest Pension Trust,126000.0,9000.0,135000.0
+8,LP-12,Ivywood Capital Partners (FoF),105000.0,7500.0,112500.0
+8,LP-13,Grayling Family Office,105000.0,7500.0,112500.0
+8,LP-14,Redstone Family Office,112000.0,8000.0,120000.0
+8,LP-15,Sable Foundation,112000.0,8000.0,120000.0
+9,LP-01,Northbridge State Pension Fund,640000.0,40000.0,680000.0
+9,LP-02,Meridian University Endowment,480000.0,30000.0,510000.0
+9,LP-03,Harborview Insurance Co.,440000.0,27500.0,467500.0
+9,LP-04,Cascade Partners Fund of Funds,400000.0,25000.0,425000.0
+9,LP-05,Elmwood Family Office,320000.0,20000.0,340000.0
+9,LP-06,Tanager Sovereign Partners,320000.0,20000.0,340000.0
+9,LP-07,Birchwood College Endowment,240000.0,15000.0,255000.0
+9,LP-08,Kestrel Insurance Group,200000.0,12500.0,212500.0
+9,LP-09,Wrenfield Family Office,160000.0,10000.0,170000.0
+9,LP-10,Alder Street Foundation,160000.0,10000.0,170000.0
+9,LP-11,Pinecrest Pension Trust,144000.0,9000.0,153000.0
+9,LP-12,Ivywood Capital Partners (FoF),120000.0,7500.0,127500.0
+9,LP-13,Grayling Family Office,120000.0,7500.0,127500.0
+9,LP-14,Redstone Family Office,128000.0,8000.0,136000.0
+9,LP-15,Sable Foundation,128000.0,8000.0,136000.0
+10,LP-01,Northbridge State Pension Fund,560000.0,40000.0,600000.0
+10,LP-02,Meridian University Endowment,420000.0,30000.0,450000.0
+10,LP-03,Harborview Insurance Co.,385000.0,27500.0,412500.0
+10,LP-04,Cascade Partners Fund of Funds,350000.0,25000.0,375000.0
+10,LP-05,Elmwood Family Office,280000.0,20000.0,300000.0
+10,LP-06,Tanager Sovereign Partners,280000.0,20000.0,300000.0
+10,LP-07,Birchwood College Endowment,210000.0,15000.0,225000.0
+10,LP-08,Kestrel Insurance Group,175000.0,12500.0,187500.0
+10,LP-09,Wrenfield Family Office,140000.0,10000.0,150000.0
+10,LP-10,Alder Street Foundation,140000.0,10000.0,150000.0
+10,LP-11,Pinecrest Pension Trust,126000.0,9000.0,135000.0
+10,LP-12,Ivywood Capital Partners (FoF),105000.0,7500.0,112500.0
+10,LP-13,Grayling Family Office,105000.0,7500.0,112500.0
+10,LP-14,Redstone Family Office,112000.0,8000.0,120000.0
+10,LP-15,Sable Foundation,112000.0,8000.0,120000.0
+11,LP-01,Northbridge State Pension Fund,0.0,40000.0,40000.0
+11,LP-02,Meridian University Endowment,0.0,30000.0,30000.0
+11,LP-03,Harborview Insurance Co.,0.0,27500.0,27500.0
+11,LP-04,Cascade Partners Fund of Funds,0.0,25000.0,25000.0
+11,LP-05,Elmwood Family Office,0.0,20000.0,20000.0
+11,LP-06,Tanager Sovereign Partners,0.0,20000.0,20000.0
+11,LP-07,Birchwood College Endowment,0.0,15000.0,15000.0
+11,LP-08,Kestrel Insurance Group,0.0,12500.0,12500.0
+11,LP-09,Wrenfield Family Office,0.0,10000.0,10000.0
+11,LP-10,Alder Street Foundation,0.0,10000.0,10000.0
+11,LP-11,Pinecrest Pension Trust,0.0,9000.0,9000.0
+11,LP-12,Ivywood Capital Partners (FoF),0.0,7500.0,7500.0
+11,LP-13,Grayling Family Office,0.0,7500.0,7500.0
+11,LP-14,Redstone Family Office,0.0,8000.0,8000.0
+11,LP-15,Sable Foundation,0.0,8000.0,8000.0
+12,LP-01,Northbridge State Pension Fund,0.0,40000.0,40000.0
+12,LP-02,Meridian University Endowment,0.0,30000.0,30000.0
+12,LP-03,Harborview Insurance Co.,0.0,27500.0,27500.0
+12,LP-04,Cascade Partners Fund of Funds,0.0,25000.0,25000.0
+12,LP-05,Elmwood Family Office,0.0,20000.0,20000.0
+12,LP-06,Tanager Sovereign Partners,0.0,20000.0,20000.0
+12,LP-07,Birchwood College Endowment,0.0,15000.0,15000.0
+12,LP-08,Kestrel Insurance Group,0.0,12500.0,12500.0
+12,LP-09,Wrenfield Family Office,0.0,10000.0,10000.0
+12,LP-10,Alder Street Foundation,0.0,10000.0,10000.0
+12,LP-11,Pinecrest Pension Trust,0.0,9000.0,9000.0
+12,LP-12,Ivywood Capital Partners (FoF),0.0,7500.0,7500.0
+12,LP-13,Grayling Family Office,0.0,7500.0,7500.0
+12,LP-14,Redstone Family Office,0.0,8000.0,8000.0
+12,LP-15,Sable Foundation,0.0,8000.0,8000.0
+13,LP-01,Northbridge State Pension Fund,0.0,36400.0,36400.0
+13,LP-02,Meridian University Endowment,0.0,27300.0,27300.0
+13,LP-03,Harborview Insurance Co.,0.0,25025.0,25025.0
+13,LP-04,Cascade Partners Fund of Funds,0.0,22750.0,22750.0
+13,LP-05,Elmwood Family Office,0.0,18200.0,18200.0
+13,LP-06,Tanager Sovereign Partners,0.0,18200.0,18200.0
+13,LP-07,Birchwood College Endowment,0.0,13650.0,13650.0
+13,LP-08,Kestrel Insurance Group,0.0,11375.0,11375.0
+13,LP-09,Wrenfield Family Office,0.0,9100.0,9100.0
+13,LP-10,Alder Street Foundation,0.0,9100.0,9100.0
+13,LP-11,Pinecrest Pension Trust,0.0,8190.0,8190.0
+13,LP-12,Ivywood Capital Partners (FoF),0.0,6825.0,6825.0
+13,LP-13,Grayling Family Office,0.0,6825.0,6825.0
+13,LP-14,Redstone Family Office,0.0,7280.0,7280.0
+13,LP-15,Sable Foundation,0.0,7280.0,7280.0
+14,LP-01,Northbridge State Pension Fund,0.0,36400.0,36400.0
+14,LP-02,Meridian University Endowment,0.0,27300.0,27300.0
+14,LP-03,Harborview Insurance Co.,0.0,25025.0,25025.0
+14,LP-04,Cascade Partners Fund of Funds,0.0,22750.0,22750.0
+14,LP-05,Elmwood Family Office,0.0,18200.0,18200.0
+14,LP-06,Tanager Sovereign Partners,0.0,18200.0,18200.0
+14,LP-07,Birchwood College Endowment,0.0,13650.0,13650.0
+14,LP-08,Kestrel Insurance Group,0.0,11375.0,11375.0
+14,LP-09,Wrenfield Family Office,0.0,9100.0,9100.0
+14,LP-10,Alder Street Foundation,0.0,9100.0,9100.0
+14,LP-11,Pinecrest Pension Trust,0.0,8190.0,8190.0
+14,LP-12,Ivywood Capital Partners (FoF),0.0,6825.0,6825.0
+14,LP-13,Grayling Family Office,0.0,6825.0,6825.0
+14,LP-14,Redstone Family Office,0.0,7280.0,7280.0
+14,LP-15,Sable Foundation,0.0,7280.0,7280.0
+15,LP-01,Northbridge State Pension Fund,0.0,31600.0,31600.0
+15,LP-02,Meridian University Endowment,0.0,23700.0,23700.0
+15,LP-03,Harborview Insurance Co.,0.0,21725.0,21725.0
+15,LP-04,Cascade Partners Fund of Funds,0.0,19750.0,19750.0
+15,LP-05,Elmwood Family Office,0.0,15800.0,15800.0
+15,LP-06,Tanager Sovereign Partners,0.0,15800.0,15800.0
+15,LP-07,Birchwood College Endowment,0.0,11850.0,11850.0
+15,LP-08,Kestrel Insurance Group,0.0,9875.0,9875.0
+15,LP-09,Wrenfield Family Office,0.0,7900.0,7900.0
+15,LP-10,Alder Street Foundation,0.0,7900.0,7900.0
+15,LP-11,Pinecrest Pension Trust,0.0,7110.0,7110.0
+15,LP-12,Ivywood Capital Partners (FoF),0.0,5925.0,5925.0
+15,LP-13,Grayling Family Office,0.0,5925.0,5925.0
+15,LP-14,Redstone Family Office,0.0,6320.0,6320.0
+15,LP-15,Sable Foundation,0.0,6320.0,6320.0
+16,LP-01,Northbridge State Pension Fund,0.0,31600.0,31600.0
+16,LP-02,Meridian University Endowment,0.0,23700.0,23700.0
+16,LP-03,Harborview Insurance Co.,0.0,21725.0,21725.0
+16,LP-04,Cascade Partners Fund of Funds,0.0,19750.0,19750.0
+16,LP-05,Elmwood Family Office,0.0,15800.0,15800.0
+16,LP-06,Tanager Sovereign Partners,0.0,15800.0,15800.0
+16,LP-07,Birchwood College Endowment,0.0,11850.0,11850.0
+16,LP-08,Kestrel Insurance Group,0.0,9875.0,9875.0
+16,LP-09,Wrenfield Family Office,0.0,7900.0,7900.0
+16,LP-10,Alder Street Foundation,0.0,7900.0,7900.0
+16,LP-11,Pinecrest Pension Trust,0.0,7110.0,7110.0
+16,LP-12,Ivywood Capital Partners (FoF),0.0,5925.0,5925.0
+16,LP-13,Grayling Family Office,0.0,5925.0,5925.0
+16,LP-14,Redstone Family Office,0.0,6320.0,6320.0
+16,LP-15,Sable Foundation,0.0,6320.0,6320.0
+17,LP-01,Northbridge State Pension Fund,0.0,27200.0,27200.0
+17,LP-02,Meridian University Endowment,0.0,20400.0,20400.0
+17,LP-03,Harborview Insurance Co.,0.0,18700.0,18700.0
+17,LP-04,Cascade Partners Fund of Funds,0.0,17000.0,17000.0
+17,LP-05,Elmwood Family Office,0.0,13600.0,13600.0
+17,LP-06,Tanager Sovereign Partners,0.0,13600.0,13600.0
+17,LP-07,Birchwood College Endowment,0.0,10200.0,10200.0
+17,LP-08,Kestrel Insurance Group,0.0,8500.0,8500.0
+17,LP-09,Wrenfield Family Office,0.0,6800.0,6800.0
+17,LP-10,Alder Street Foundation,0.0,6800.0,6800.0
+17,LP-11,Pinecrest Pension Trust,0.0,6120.0,6120.0
+17,LP-12,Ivywood Capital Partners (FoF),0.0,5100.0,5100.0
+17,LP-13,Grayling Family Office,0.0,5100.0,5100.0
+17,LP-14,Redstone Family Office,0.0,5440.0,5440.0
+17,LP-15,Sable Foundation,0.0,5440.0,5440.0
+18,LP-01,Northbridge State Pension Fund,0.0,27200.0,27200.0
+18,LP-02,Meridian University Endowment,0.0,20400.0,20400.0
+18,LP-03,Harborview Insurance Co.,0.0,18700.0,18700.0
+18,LP-04,Cascade Partners Fund of Funds,0.0,17000.0,17000.0
+18,LP-05,Elmwood Family Office,0.0,13600.0,13600.0
+18,LP-06,Tanager Sovereign Partners,0.0,13600.0,13600.0
+18,LP-07,Birchwood College Endowment,0.0,10200.0,10200.0
+18,LP-08,Kestrel Insurance Group,0.0,8500.0,8500.0
+18,LP-09,Wrenfield Family Office,0.0,6800.0,6800.0
+18,LP-10,Alder Street Foundation,0.0,6800.0,6800.0
+18,LP-11,Pinecrest Pension Trust,0.0,6120.0,6120.0
+18,LP-12,Ivywood Capital Partners (FoF),0.0,5100.0,5100.0
+18,LP-13,Grayling Family Office,0.0,5100.0,5100.0
+18,LP-14,Redstone Family Office,0.0,5440.0,5440.0
+18,LP-15,Sable Foundation,0.0,5440.0,5440.0

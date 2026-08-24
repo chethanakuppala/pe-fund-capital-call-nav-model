@@ -1,0 +1,11 @@
+company_id,company_name,sector,invest_quarter,cost_basis,archetype
+PC-01,Vantage Robotics,Industrial Tech,1,6000000,winner
+PC-02,Coastal Foods Group,Consumer,2,5500000,steady
+PC-03,Nimbus Data Systems,Software,3,4500000,writedown
+PC-04,Harbor Dental Partners,Healthcare Services,4,5000000,recap
+PC-05,Trailhead Outdoor Co.,Consumer,5,4000000,laggard
+PC-06,Summit Logistics,Transportation,6,5000000,winner
+PC-07,BluePeak Software,Software,7,4500000,steady
+PC-08,Ridgeline Materials,Industrials,8,3500000,laggard
+PC-09,Fairmont Health Services,Healthcare Services,9,4000000,steady
+PC-10,Alpine Consumer Brands,Consumer,10,3500000,steady
